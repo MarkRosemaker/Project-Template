@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "./",
+			"name": "MyProject"
+		}
+	],
+	"settings": {
+		// "workbench.colorTheme": "", // recommendation: Visual Studio Light for writing, "Cobalt2" for programming
+		// "breadcrumbs.symbolSortOrder": "position", // "type" for programming, "position" for writing
+	},
+	"extensions": {
+		"recommendations": [
+			"esbenp.prettier-vscode",
+			"vscode-icons-team.vscode-icons",
+			"yzhang.markdown-all-in-one",
+			"xyz.local-history",
+			"anseki.vscode-color",
+			"christian-kohler.path-intellisense",
+			"wayou.vscode-todo-highlight"
+			// TODO add code language specific plugins
+		]
+	}
+}
