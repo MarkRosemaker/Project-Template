@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "./",
+			"path": ".",
 			"name": "MyProject"
 		}
 	],
@@ -18,7 +18,7 @@
 			"anseki.vscode-color",
 			"christian-kohler.path-intellisense",
 			"wayou.vscode-todo-highlight"
-			// TODO add code language specific plugins
+			// TODO add code language specific extensions
 		]
 	}
 }
